@@ -1,0 +1,17 @@
+﻿#themeyab-header-left ul{z-index:9999 !important;}
+#themeyab-header-left ul li{z-index:9999 !important;display:inline-block;float:left;}
+#themeyab-menu-search{display:inline-block;position:relative;top:0px;border-radius:none !important;width:930px;margin-left:5px;}
+#case1{background:none !important;}
+.style-content,.style-content h3,.btn-register{border-radius:none;behavior:none;}
+.btn-register{display:inline-block;width:60px !important;}
+.news-center img{border-radius:none;}
+.txt-register{width:110px !important;float:right;}
+#themeyab-menu-right{z-index:9999 !important;display:inline-block;}
+#themeyab-menu-right ul li a{background-position:right 9px;}
+#themeyab-slide,.carousel-inner{background:none;}
+#themeyab-content-right{float:right;width:230px !important;display:inline-block;}
+#themeyab-content-left{width:680px;float:left;display:inline-block;}
+#btn-send{border-radius:none;width:80px;box-shadow:none;}
+.contact-left form input{margin:5px 0;float:right;clear:both;display:block;box-shadow:none;-webkit-box-shadow:none;margin-right:5px;}
+.contact-left form textarea{height:150px;display:block;clear:both;margin:5px 0;}
+.contact-left h3,.contact-left p{margin-right:15px;}
